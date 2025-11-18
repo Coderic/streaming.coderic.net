@@ -14,8 +14,6 @@ logo: "/images/logo.svg"
 
 # Navigation
 navigation:
-  - label: "Inicio"
-    url: "/"
   - label: "En Vivo"
     url: "/live"
   - label: "Podcasts"
